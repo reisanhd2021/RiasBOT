@@ -74,7 +74,7 @@ let handler = async (m, { conn, args, usedPrefix, DevMode }) => {
             }
             break
             default:
-                return conn.reply(m.chat, `Gunakan format ${usedPrefix}minta <type> <jumlah> \ncontoh penggunaan: *${usedPrefix}minta money 100 *\n\n*List yang bisa di minta*\nMoney\nXp\nPotion\nSampah\nDiamond\nCommon\nUncommon\nMythic\nLegendary`.trim(), m)
+                return conn.reply(m.chat, `Gunakan format ${usedPrefix}minta <type> <jumlah> \ncontoh penggunaan: *${usedPrefix}minta money 100 *\n\n*List yang bisa di minta*\nMoney\nXp\nPotion\nSampah\nDiamond\nCommon\nUncommon\nMythic\nLegendary\nLimit`.trim(), m)
         }
     } catch (e) {
         conn.reply(m.chat, `Gunakan format ${usedPrefix}minta <type> <jumlah>\ncontoh penggunaan: *${usedPrefix}minta money 100*`.trim(), m)
