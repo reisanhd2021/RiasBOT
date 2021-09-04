@@ -1,10 +1,10 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/GhFzeiOGDyM9z20rPrU6Tz']
 global.channelYT = ['https://youtube.com/channel/UC_GaCHzfGGH6Or_E87guvxQ'] 
-global.owner = ['6282180228860']// Put your number here
-global.mods = ['6282180228860']//put your nomber herr
-global.prems = ['6289694036514','6285363597766','6281272691079','6282180228860','6285716364072','6289654027829','6285950064173','6285812638897','6281806695954','6282129815630','6282180328393','6282239655059','628113223622','6282256421560','6283117509874','6287776337722'] // Premium user has unlimited limit
-global.vip = ['6282180228860']//put your number Here
+global.owner = ['6281806695954']// Put your number here
+global.mods = ['6281806695954'] // Want some help?
+global.prems = ['13172021849','6281806695954','6289644913986','628978887128','6282180228860','6289654027829','6285812638897','6285156800599','6281230506190']// Premium user has unlimited limit
+global.vip = ['6281806695954']//put your number Here
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -30,8 +30,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Zyura'
-global.author = 'Always Love You'
+global.packname = 'Reisan'
+global.author = 'ReiBots Is The Best'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
