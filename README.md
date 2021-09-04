@@ -27,7 +27,7 @@
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/zyura10/rias
+> git clone https://github.com/reisanhd2021/RiasBOT
 > cd games-wabot
 > npm install
 ```
@@ -39,5 +39,6 @@
 
 ### Thanks To 
 [`Zyura`](https://github.com/zyura10)
+[`Reisan`](https://github.com/reisanhd2021)
 [`@Nurutomo`](https://github.com/Nurutomo)
 [`@BochilGaming`](https://github.com/BochilGaming)
