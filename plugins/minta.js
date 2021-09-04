@@ -37,6 +37,12 @@ let handler = async (m, { conn, args, usedPrefix, DevMode }) => {
                     conn.reply(m.chat, `Berhasil Meminta Xp sebesar ${count}`.trim(), m)
             }
             break
+            case 'limit':
+                {
+                    global.DATABASE._data.users[m.sender].limit += count * 1
+                    conn.reply(m.chat, `Berhasil Meminta limit sebesar ${count}`.trim(), m)
+            }
+            break
             case 'common':
                 {
                     global.DATABASE._data.users[m.sender].common += count * 1
