@@ -1,5 +1,5 @@
 # Games-Wabot
-<a href="https://github.com/zyura10/rias"
+<a href="https://github.com/zyura10/RiasBOT"
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/GhFzeiOGDyM9z20rPrU6Tz)
 ### FOR TERMUX USER
